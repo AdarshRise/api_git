@@ -1,7 +1,7 @@
 import json
 import requests
 #Your access token
-api_token = '7f7e460e5bb75b659ef5e386fd770b7598271cd0'
+api_token = 'your API key'
 url="https://api.github.com/"
 headers = {'Content-Type': 'application/json',
             'User-Agent': 'Student',
